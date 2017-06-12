@@ -1,0 +1,41 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  color:white;
+  background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.1)), url('http://hdqwalls.com/wallpapers/tree-field-plain-hd.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.container{
+  font-family: lato, open-sans;
+  width: 100%;
+  height: 100%;
+  margin:0 px;  
+}
+.title{
+  margin: 5% auto;
+  text-align: center; 
+}
+.weather, .weather-details{
+ font-size: 2em;
+}
+.weather{
+  text-align: center;
+  margin: auto;
+}
+.icon, .temp, .unit{
+  display: inline;
+}
+.fa{
+  color:white;
+  margin-right: 1%;
+}
+.weather-details{
+  text-align: center;
+  margin: 5% auto;
+}
+.place, .wind-speed, .details{
+  color:#D2DFE7;
+  font-size: 0.9em;
+}
