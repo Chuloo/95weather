@@ -3,12 +3,19 @@
   "version": "1.0.0",
   "description": "a simple weather app",
   "main": "95weather.js",
-  "scripts": {
+   "engines": {
+   "node": "6.10.2"
+   },
+   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Chuloo/weather-app.git"
+  },
+    "dependencies": {
+    "ejs": "2.5.6",
+    "express": "4.15.2"
   },
   "keywords": [
     "weather",
