@@ -1,0 +1,25 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "a simple weather app",
+  "main": "95weather.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chuloo/weather-app.git"
+  },
+  "keywords": [
+    "weather",
+    "local-weather",
+    "javascript",
+    "freecodecamp"
+  ],
+  "author": "William Imoh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Chuloo/weather-app/issues"
+  },
+  "homepage": "https://github.com/Chuloo/weather-app#readme"
+}
