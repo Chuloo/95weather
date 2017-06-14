@@ -1,0 +1,103 @@
+[33mcommit 7f8f5a204d28a2b2cf1ff1ed4dedb0c3765cc151[m
+Author: chuloo <williamimoh@yahoo.com>
+Date:   Wed Jun 14 00:01:05 2017 +0100
+
+    modified index.html to add JS
+
+[33mcommit 1213cc56b34958090576fa067755a23a374084a1[m
+Author: chuloo <williamimoh@yahoo.com>
+Date:   Tue Jun 13 23:57:40 2017 +0100
+
+    index.html
+
+[33mcommit 5aa06d4536c5e72ddafd79c6cba6fce8713bb6cb[m
+Author: chuloo <williamimoh@yahoo.com>
+Date:   Tue Jun 13 23:48:27 2017 +0100
+
+    updates
+
+[33mcommit d8948879ad5c2fcd8ce601f0666a69e941e45a92[m
+Author: chuloo <williamimoh@yahoo.com>
+Date:   Tue Jun 13 11:44:04 2017 +0100
+
+    procfile
+
+[33mcommit f0d55d1668e21221b98aac5f54594832eda0d0fa[m
+Author: chuloo <williamimoh@yahoo.com>
+Date:   Tue Jun 13 11:28:54 2017 +0100
+
+    added procfile
+
+[33mcommit 34ee856bc62aaaf83f0e31aff72d5b5ee36d0167[m
+Author: chuloo <williamimoh@yahoo.com>
+Date:   Tue Jun 13 11:22:42 2017 +0100
+
+    updated package.json
+
+[33mcommit ab3f8d3074657ec48a2e7c53e3341a3aa0b0e724[m
+Author: chuloo <williamimoh@yahoo.com>
+Date:   Tue Jun 13 10:47:19 2017 +0100
+
+    creating package.json
+
+[33mcommit b3308837d4b99001f70ba9a94dc7d3de4ac6977f[m
+Author: William <williamimoh@yahoo.com>
+Date:   Mon Jun 12 23:50:09 2017 +0100
+
+    Create readme file
+
+[33mcommit 94de0a77e62f8140a8e57b25ac616a10f57699c0[m
+Author: chuloo <williamimoh@yahoo.com>
+Date:   Mon Jun 12 23:04:29 2017 +0100
+
+    95weather cleaned
+
+[33mcommit 7e477b8be3af08c2f7ed9cb9698f0cfe7f7f349c[m
+Merge: 62b9049 801214f
+Author: chuloo <williamimoh@yahoo.com>
+Date:   Mon Jun 12 23:02:31 2017 +0100
+
+    merge conflict resolution
+
+[33mcommit 62b9049fb7dc9dfe6e58b5528b5eb40108a28066[m
+Author: chuloo <williamimoh@yahoo.com>
+Date:   Mon Jun 12 22:58:35 2017 +0100
+
+    95weather clean
+
+[33mcommit 801214f0f8917512228d9fc36a7e035859cfbb17[m
+Author: chuloo <williamimoh@yahoo.com>
+Date:   Mon Jun 12 22:42:11 2017 +0100
+
+    resolve merge conflicts
+
+[33mcommit f6aa0476be723321a2d93416bdeb803fb6118c07[m
+Merge: 973a21b 973ee75
+Author: chuloo <williamimoh@yahoo.com>
+Date:   Mon Jun 12 22:41:15 2017 +0100
+
+    resolve merge conflict
+
+[33mcommit 973a21b02c2a8906ff71215bc00dcb3683c2d0b3[m
+Author: chuloo <williamimoh@yahoo.com>
+Date:   Mon Jun 12 22:35:41 2017 +0100
+
+    test
+
+[33mcommit 973ee75d247d35d5dd97d9b8e4030c2677f25ecc[m
+Author: chuloo <williamimoh@yahoo.com>
+Date:   Mon Jun 12 22:33:32 2017 +0100
+
+    95weatherworld test
+
+[33mcommit 8e4576780c2a2ed4c4a5813bff065d47054b436c[m
+Author: chuloo <williamimoh@yahoo.com>
+Date:   Mon Jun 12 15:03:21 2017 +0100
+
+    Changes to css file asking for hep
+
+[33mcommit 72daa7f0cd24ba87a50ce1dcad0c5d4d5e31c2c1[m
+Author: chuloo <williamimoh@yahoo.com>
+Date:   Mon Jun 12 14:52:35 2017 +0100
+
+    My first git commit
