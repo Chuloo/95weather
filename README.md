@@ -4,4 +4,8 @@ This is a simple local weather app that utilizes basic HTML, CSS and Javascript 
 Finally put it up on github pages.
 Sorry, had to merge both css and js file into one index.html file.
 PS: would accept pull requests upon review. Gracias!
+Now we are working on the "play" branch 
+
+``` what do we have here ```
+#hello world
 
