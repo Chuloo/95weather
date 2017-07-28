@@ -1,4 +1,5 @@
-body {
+/*<style>*/
+  body {
   margin: 0px;
   padding: 0px;
   color:white;
@@ -12,7 +13,7 @@ body {
   width: 100%;
   height: 100%;
   margin:0 px;
-  /*help: me  */
+  /*help: me please */
 }
 .title{
   margin: 5% auto;
@@ -40,3 +41,4 @@ body {
   color:#D2DFE7;
   font-size: 0.9em;
 }
+  /*</style>*/
